@@ -1,1 +1,2 @@
-Test   file:///C:/Users/Nooruz/AndroidStudioProjects/JavaDok/documentation/com/awb/javadok/package-summary.html
+Test   https://nooruz21.github.io/JavaDok/documentation/com/awb/javadok/package-summary.html
+https://nooruz21.github.io/Flow-test/documentation/html/navigation.html
